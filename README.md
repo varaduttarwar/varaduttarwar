@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Varad</h1>
-<h3 align="center"> I'm passionate and motivated learner who grabs every opportunity that comes my way. I love solving real-world problems through code. The fact that there are endless ways to solve problems and infinite ideas to try and research is something that drives my creative spirit to explore and learn</h3>
+<h3 align="center">I am a passionate and motivated learner who seizes every opportunity that comes my way. I love solving real-world problems through code. The fact that there are endless ways to solve problems and infinite ideas to explore and research fuels my creative spirit to keep learning and innovating.</h3>
 
 - 🔭 I’m currently working on [Pharmacy Management System](https://github.com/varaduttarwar/pharmacy-management-system)
 
